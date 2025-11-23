@@ -1,0 +1,10 @@
+1;Ladygaga;3,45;
+2;michaeljackson;5,56;
+3;There is a light that never goes out;6,54;
+4;AnarchyinUK;5,54;
+5;Smells like teen spirit;7,43;
+6;Comfortably numb;6,30;
+7;A milli;3,60;
+8;Hallelujah;5,30;
+9;Black hole sun;4,30;
+10;And I love her;3,30;
