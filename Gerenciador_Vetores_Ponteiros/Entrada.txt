@@ -1,0 +1,6 @@
+adiciona V1 10
+adiciona V2 20
+adiciona V1 40
+remove V1 10
+Mostra V1 
+Qtd V1
